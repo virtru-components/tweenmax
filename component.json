@@ -1,0 +1,22 @@
+{
+  "name": "tweenmax",
+  "repo": "virtru-components/tweenmax",
+  "description": "TweenMax library",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "development": {
+    "virtru-components/mocha-promises-kit": "0.1.0",
+    "virtru-components/sinon.js": "1.6.0",
+    "virtru-components/chai": "1.5.1"
+  },
+  "scripts": [
+    "index.js",
+    "TweenMax.js"
+  ],
+  "testScripts": [
+    "tests/test.js"
+  ]
+}
